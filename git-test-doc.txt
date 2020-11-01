@@ -1,0 +1,7 @@
+echo "# Angularjs-coursera" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/prashant2211/Angularjs-coursera.git
+git push -u origin main
